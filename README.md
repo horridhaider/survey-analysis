@@ -9,6 +9,52 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 
+## 📊 Key Findings at a Glance
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🏆 Top-Paying Departments**
+
+<img src="https://github.com/user-attachments/assets/880a93e0-a021-45a1-9eed-8b9cb82ea26d" width="100%"/>
+
+Compensation & Benefits, Technology, and Law rank at the top — averaging **$30–50K more** than Education or Non-profit.
+
+</td>
+<td width="50%" align="center">
+
+**🌍 Same Role, Different Country**
+
+<img src="https://github.com/user-attachments/assets/2b27b85c-190c-4dbb-8b6e-5ea120816a7d" width="100%"/>
+
+The US tops most departments. Australia and the UK compete closely in Finance and Law.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**⚧ The Gender Pay Gap Over Time**
+
+<img src="https://github.com/user-attachments/assets/40b24ea7-9008-4419-925e-2aa14a233e07" width="100%"/>
+
+Modest at entry level. By **15+ years**, Male salaries nearly double while Female growth stays gradual.
+
+</td>
+<td width="50%" align="center">
+
+**🎓 Race × Education → Salary**
+
+<img src="https://github.com/user-attachments/assets/b7fa7934-f741-4bc6-b3f3-0140c4211dce" width="100%"/>
+
+PhD and Professional degrees yield the highest returns, but the **premium varies significantly** by race.
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 > *What does a Software Engineer in Australia really earn compared to one in Canada?  
